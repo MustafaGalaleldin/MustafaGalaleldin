@@ -51,7 +51,7 @@
 <img src="https://raw.githubusercontent.com/MustafaGalaleldin/MustafaGalaleldin/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<!--
 <p align="left">This is how I start debugging my code >_<</p>
 
 ###
@@ -59,7 +59,7 @@
 <div align="center">
   <img height="200" src="https://i.imgur.com/qSLzhmY.gif"  />
 </div>
-
+-->
 ###
 
 <div align="center">
